@@ -31,3 +31,22 @@ Key points:
 - Includes a README.md in each folder explaining it's purpose.
 
 Use this template as a starting point to create reproducible, clean, and maintainable ML projects.
+
+## Getting started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/thomastschinkel/ml-template.git
+   cd ml-template
+   ```
+2. Create a virtual environment
+   ```bash
+   python -m venv .venv
+  source .venv/bin/activate   # Linux/Mac
+  .venv\Scripts\activate      # Windows
+  ```
+3. Install dependencies
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+Now you are ready to start your ML-Project. 
