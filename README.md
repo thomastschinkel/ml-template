@@ -48,7 +48,7 @@ Use this template as a starting point to create reproducible, clean, and maintai
 ```bash
   pip install -r requirements.txt
   ```
-You can modify requirements.txt as needed to avoid installing unnecessary dependencies.
+You can modify requirements.txt as needed to avoid installing unnecessary dependencies. Currently it only contains the Top 10. ML libraries in Python
 
 
 Now you are ready to start your ML-Project.🚀 
