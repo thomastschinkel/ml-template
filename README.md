@@ -6,6 +6,7 @@ You can use this template as a starting point for any ML project, regardless of 
 
 ## Project structure
 
+```
 ml-template/
 ├── data/ # Datasets (raw and processed)
 ├── experiments/ # To track experiments (results, notes, configs, and models)
@@ -16,3 +17,4 @@ ml-template/
 ├── LICENSE # License for the repo (MIT)
 ├── README.md # Repo overview and instructions
 └── requirements.txt # Python dependencies
+```
