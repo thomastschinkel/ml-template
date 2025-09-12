@@ -48,5 +48,7 @@ Use this template as a starting point to create reproducible, clean, and maintai
 ```bash
   pip install -r requirements.txt
   ```
+You can modify requirements.txt as needed to avoid installing unnecessary dependencies.
 
-Now you are ready to start your ML-Project. 
+
+Now you are ready to start your ML-Project.🚀 
