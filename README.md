@@ -34,7 +34,7 @@ Use this template as a starting point to create reproducible, clean, and maintai
 
 ## Getting started
 
-# 1. Locally
+### 1. Locally
    1. Clone the repository:
       ```bash
       git clone https://github.com/thomastschinkel/ml-template.git
@@ -52,18 +52,18 @@ Use this template as a starting point to create reproducible, clean, and maintai
 ```
    You can modify requirements.txt as needed to avoid installing unnecessary dependencies. Currently it only contains the Top 10. ML libraries in Python
    
-# 2. Cloud
+### 2. Cloud
    1. Clone the repository:
       ```bash
       !git clone https://github.com/thomastschinkel/ml-template.git
       %cd ml-template
       ```
    2. Install dependencies
-       ```bash
-     !pip install -r requirements.txt
+    ```bash
+    !pip install -r requirements.txt
     ```
    Some installations will be skipped as these libraries are often pre-installed on cloud-environments.
    
    **Note:** You have to run these commands in a notebook cell. 
-
-Now you are ready to start your ML-Project.🚀 
+   
+**Now you are ready to start your ML-Project.🚀** 
