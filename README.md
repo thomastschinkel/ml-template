@@ -33,22 +33,37 @@ Key points:
 Use this template as a starting point to create reproducible, clean, and maintainable ML projects.
 
 ## Getting started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thomastschinkel/ml-template.git
-   cd ml-template
-   ```
-2. Create a virtual environment
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # Linux/Mac
-   .venv\Scripts\activate      # Windows
-   ```
-3. Install dependencies
-```bash
-  pip install -r requirements.txt
-  ```
-You can modify requirements.txt as needed to avoid installing unnecessary dependencies. Currently it only contains the Top 10. ML libraries in Python
 
+# 1. Locally
+   1. Clone the repository:
+      ```bash
+      git clone https://github.com/thomastschinkel/ml-template.git
+      cd ml-template
+      ```
+   2. Create a virtual environment
+      ```bash
+      python -m venv .venv
+      source .venv/bin/activate   # Linux/Mac
+      .venv\Scripts\activate      # Windows
+      ```
+   3. Install dependencies
+   ```bash
+     pip install -r requirements.txt
+```
+   You can modify requirements.txt as needed to avoid installing unnecessary dependencies. Currently it only contains the Top 10. ML libraries in Python
+   
+# 2. Cloud
+   1. Clone the repository:
+      ```bash
+      !git clone https://github.com/thomastschinkel/ml-template.git
+      %cd ml-template
+      ```
+   2. Install dependencies
+       ```bash
+     !pip install -r requirements.txt
+    ```
+   Some installations will be skipped as these libraries are often pre-installed on cloud-environments.
+   
+   **Note:** You have to run these commands in a notebook cell. 
 
 Now you are ready to start your ML-Project.🚀 
