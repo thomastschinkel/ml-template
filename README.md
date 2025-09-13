@@ -64,6 +64,6 @@ Use this template as a starting point to create reproducible, clean, and maintai
    ```
    Some installations will be skipped as these libraries are often pre-installed on cloud-environments.
    
-      **Note:** You have to run these commands in a notebook cell. 
+   **Note:** You have to run these commands in a notebook cell. 
    
 **Now you are ready to start your ML-Project.🚀** 
