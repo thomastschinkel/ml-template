@@ -66,4 +66,4 @@ Use this template as a starting point to create reproducible, clean, and maintai
    
    **Note:** You have to run these commands in a notebook cell. 
    
-**Now you are ready to start your ML-Project.🚀** 
+## **Now you are ready to start your ML-Project.🚀** 
