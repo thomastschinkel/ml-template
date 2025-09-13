@@ -1,5 +1,7 @@
 # ML - Template
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.11-blue)
+
 A clean, framework-agnostic template for organizing and starting any Machine Learning project
 
 You can use this template as a starting point for any ML project, regardless of framework (scikit-learn, TensorFlow, PyTorch, etc.).
