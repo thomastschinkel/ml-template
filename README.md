@@ -28,7 +28,6 @@ Key points:
 - Framework-agnostic: works with scikit-learn, TensorFlow, PyTorch, or any other ML library.
 - Ready-to-use structure for data, experiments, notebooks, source code, and tests.
 - Designed for both research experiments and production-ready projects.
-- Includes a README.md in each folder explaining it's purpose.
 
 Use this template as a starting point to create reproducible, clean, and maintainable ML projects.
 
